@@ -1,0 +1,18 @@
+[2023-07-11 13:10:32] [INFO] This is an information message.
+[2023-07-11 13:10:32] [WARNING] This is a warning message.
+[2023-07-11 13:10:32] [ERROR] This is an error message.
+[INFO] This is an information message.
+[WARNING] This is a warning message.
+[ERROR] This is an error message.
+[INFO] This is an information message.
+[WARNING] This is a warning message.
+[ERROR] This is an error message.
+[INFO] This is an information message.
+[WARNING] This is a warning message.
+[ERROR] This is an error message.
+[INFO] This is an information message.
+[WARNING] This is a warning message.
+[ERROR] This is an error message.
+[INFO] This is an information message.
+[WARNING] This is a warning message.
+[ERROR] This is an error message.
